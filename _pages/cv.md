@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, GitHub University, 2018
+* M.S. in Jekyll, GitHub University, 2023 (Master's thesis in review)
 
-Work experience
+Master's thesis
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Where to log? A language-agnostic framework for recommending logging statements in source code
+* I developed Logcheck (github.com/ncktl/logcheck), which is a tool that learns logging practice from existing code and recommends logging statements accordingly for both Python and Java. Logging practice can be learned from arbitrary amounts of code (e.g., many highly-rated open source repositories, a company's existing code base).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2017-2018: Project intern
+  * KSB SE & Co. KGaA, Halle (Saale)
+  * Developed DSL for automating testing of water pumps.
+
+* 2019: Working Student
+  * The unbelievable Machine Company GmbH, Berlin
+  * Member of of a DevOps team running a Hadoop stack across multiple data centers
+  * Increased process automation
+  * Served as primary on-call engineer during some public holidays
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming languages
+  * Experienced: Python, Java, Shell script
+  * Intermediate: C/C++
+
+* Tools & technologies
+  * Unix tools, Microsoft Office (Word, Excel, PowerPoint), Containerization (Docker, Kubernetes), Virtualization (QEMU), Hadoop stack, Monitoring (Nagios), IaC (Ansible), Cloud vendors (AWS, GCP, Azure), Prompt engineering (Github Copilot, ChatGPT, Stable Diffusion)
+
+* Languages
+  * Native: German
+  * Fluent: English
+  * Intermediate: French
+
