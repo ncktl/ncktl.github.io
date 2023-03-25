@@ -1,15 +1,15 @@
 ---
-title: "Pieres: A playground for network interrupt experiments on real-time embedded systems in the iot."
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'We present a playground for the ESP32 IoT device which enables researchers to conduct experiments in the context of network interrupt simulation. The playground comprises different network interface controller implementations, load generators and timing utilities.'
-date: 2021-04-19
-venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'
-paperurl: 'http://ncktl.github.io/files/paper1.pdf'
-citation: 'Bender, Franz, Jan Jonas Brune, Nick Lauritz Keutel, Ilja Behnke, and Lauritz Thamsen. (2021). &quot;Pieres: A playground for network interrupt experiments on real-time embedded systems in the iot.&quot; <i>Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)</i>. Pages 81–84. https://dl.acm.org/doi/10.1145/3447545.3451189'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-We present a playground for the ESP32 IoT device which enables researchers to conduct experiments in the context of network interrupt simulation. The playground comprises different network interface controller implementations, load generators and timing utilities.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://ncktl.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Bender, Franz, Jan Jonas Brune, Nick Lauritz Keutel, Ilja Behnke, and Lauritz Thamsen. (2021). &quot;Pieres: A playground for network interrupt experiments on real-time embedded systems in the iot.&quot; <i>Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)</i>. Pages 81–84. https://dl.acm.org/doi/10.1145/3447545.3451189
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
