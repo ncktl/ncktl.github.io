@@ -17,7 +17,7 @@ Education
 Master's thesis
 ======
 * Where to log? A language-agnostic framework for recommending logging statements in source code
-* I developed Logcheck (github.com/ncktl/logcheck), which is a tool that learns logging practice from existing code and recommends logging statements accordingly for both Python and Java. Logging practice can be learned from arbitrary amounts of code (e.g., many highly-rated open source repositories, a company's existing code base).
+* I developed [Logcheck](github.com/ncktl/logcheck), which is a tool that learns logging practice from existing code and recommends logging statements accordingly for both Python and Java. Logging practice can be learned from arbitrary amounts of code (e.g., many highly-rated open source repositories, a company's existing code base).
 
 Experience
 ======
