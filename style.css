@@ -1,0 +1,15 @@
+/* style.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.box {
+  max-width: 500px;
+  margin: 0 auto;
+}
