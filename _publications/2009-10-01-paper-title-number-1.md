@@ -6,10 +6,10 @@ excerpt: 'We present a playground for the ESP32 IoT device which enables researc
 date: 2021-04-19
 venue: 'Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Franz Bender, Jan Jonas Brune, Nick Lauritz Keutel, Ilja Behnke, and Lauritz Thamsen. 2021. PIERES: A Playground for Network Interrupt Experiments on Real-Time Embedded Systems in the IoT. In Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021). Association for Computing Machinery, New York, NY, USA, 81–84. https://doi.org/10.1145/3447545.3451189'
 ---
 We present a playground for the ESP32 IoT device which enables researchers to conduct experiments in the context of network interrupt simulation. The playground comprises different network interface controller implementations, load generators and timing utilities.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Franz Bender, Jan Jonas Brune, Nick Lauritz Keutel, Ilja Behnke, and Lauritz Thamsen. 2021. PIERES: A Playground for Network Interrupt Experiments on Real-Time Embedded Systems in the IoT. In Companion of the ACM/SPEC International Conference on Performance Engineering (ICPE 2021). Association for Computing Machinery, New York, NY, USA, 81–84. https://doi.org/10.1145/3447545.3451189

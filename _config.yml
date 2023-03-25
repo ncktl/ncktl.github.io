@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Nick Keutel's GitHub page"
 title_separator          : "-"
 name                     : &name "Nick Keutel"
 description              : &description "Hello World!"

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, GitHub University, 2018
-* M.S. in Jekyll, GitHub University, 2023 (Master's thesis in review)
+* B.S. in Computer Science, Martin-Luther-Universität Halle-Wittenberg, 2018
+* M.S. in Jekyll, Technische Universität Berlin, 2023 (Master's thesis in review)
 
 Master's thesis
 ======
@@ -21,13 +21,11 @@ Master's thesis
 
 Experience
 ======
-* 2017-2018: Project intern
-  * KSB SE & Co. KGaA, Halle (Saale)
+* 2017-2018: Project intern, KSB SE & Co. KGaA, Halle (Saale)
   * Developed DSL for automating testing of water pumps.
 
-* 2019: Working Student
-  * The unbelievable Machine Company GmbH, Berlin
-  * Member of of a DevOps team running a Hadoop stack across multiple data centers
+* 2019: Working Student, The unbelievable Machine Company GmbH, Berlin
+  * Worked as a member of of a DevOps team running a Hadoop stack across multiple data centers
   * Increased process automation
   * Served as primary on-call engineer during some public holidays
 
