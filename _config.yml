@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick Keutel's Github page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Nick Keutel"
 description              : &description "Hello World!"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nick Lauritz Keutel"
   avatar           : "profile.png"
-  bio              : "Computer enthusiast"
+  bio              : "Computer enthusiast about to graduate from TU Berlin with a master's degree in Computer Science"
   location         : "Berlin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
