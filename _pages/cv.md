@@ -45,7 +45,7 @@ Skills
   * Novice: C#, Javascript, Typescript, AppleScript, Haskell
 
 * Tools & technologies
-  * Unix tools, Microsoft Office (Word, Excel, PowerPoint), Containerization (Docker, Kubernetes), Virtualization (QEMU+KVM), Hadoop stack, Monitoring (Nagios), IaC (Ansible), Cloud vendors (AWS, GCP, Azure), Prompt engineering (Github Copilot, ChatGPT, Stable Diffusion), OpenStack, Splunk, Optimization (CPLEX)
+  * Unix tools, Microsoft Office (Word, Excel, PowerPoint), Containerization (Docker, Kubernetes), Virtualization (QEMU+KVM), Hadoop stack, Monitoring (Nagios), IaC (Ansible), Cloud vendors (AWS, GCP, Azure), Prompt engineering (Github Copilot, ChatGPT, Stable Diffusion), OpenStack, Splunk, Optimization (CPLEX), SQL, Neo4j
 
 * Software development
   * DevOps, Agile/Scrum, CI/CD, IoT/Embedded, DSL
