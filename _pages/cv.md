@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Martin-Luther-Universität Halle-Wittenberg, 2018
-* M.S. in Jekyll, Technische Universität Berlin, 2023 (Master's thesis in review)
+* M.S. in Computer Science, Technische Universität Berlin, 2023 (Master's thesis currently in review)
 
 Master's thesis
 ======
