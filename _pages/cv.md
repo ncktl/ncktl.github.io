@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Martin-Luther-Universität Halle-Wittenberg, 2018
-* M.S. in Computer Science, Technische Universität Berlin, 2023 (Master's thesis currently in review)
+* 2014 - 2018 B.S. in Computer Science, Martin-Luther-Universität Halle-Wittenberg
+  * Thesis: Optimization of railway scheduling
+* 2019 - 2023 M.S. in Computer Science, Technische Universität Berlin (Master's thesis currently under review)
+  * Specialized in distributed systems
 
 Master's thesis
 ======
