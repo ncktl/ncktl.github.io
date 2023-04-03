@@ -45,6 +45,12 @@ Skills
 * Tools & technologies
   * Unix tools, Microsoft Office (Word, Excel, PowerPoint), Containerization (Docker, Kubernetes), Virtualization (QEMU+KVM), Hadoop stack, Monitoring (Nagios), IaC (Ansible), Cloud vendors (AWS, GCP, Azure), Prompt engineering (Github Copilot, ChatGPT, Stable Diffusion), OpenStack, Splunk, Optimization (CPLEX)
 
+* Software development
+  * DevOps, Agile/Scrum, CI/CD, IoT/Embedded, DSL
+
+* Frameworks & libraries
+  * Tensorflow, Scikit-learn, Numpy, Pandas, Matplotplib, Boost, Tree-sitter
+
 * Languages
   * Native: German
   * Fluent: English
