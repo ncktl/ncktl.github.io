@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * 2014 - 2018 B.S. in Computer Science, Martin-Luther-Universität Halle-Wittenberg
-  * Thesis: Optimization of railway scheduling
-* 2019 - 2023 M.S. in Computer Science, Technische Universität Berlin (Master's thesis currently under review)
-  * Specialized in distributed systems
+  <!-- * Thesis: Optimization of railway scheduling -->
+* 2019 - 2022 M.S. in Computer Science, Technische Universität Berlin
+  <!-- * Specialized in distributed systems -->
 
-Master's thesis
+<!-- Master's thesis
 ======
 * Where to log? A language-agnostic framework for recommending logging statements in source code
 * I developed [Logcheck](github.com/ncktl/logcheck), which is a tool that learns logging practice from existing code and recommends logging statements accordingly for both Python and Java. Logging practice can be learned from arbitrary amounts of code (e.g., many highly-rated open source repositories, a company's existing code base).
@@ -29,7 +29,7 @@ Experience
 * 2019: Working Student, The unbelievable Machine Company GmbH, Berlin
   * Worked as a member of of a DevOps team running a Hadoop stack across multiple data centers
   * Increased process automation
-  * Served as primary on-call engineer during some public holidays
+  * Served as primary on-call engineer during some public holidays -->
 
 Publications
 ======
@@ -37,7 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+<!-- Skills
 ======
 * Programming languages
   * Experienced: Python, Java, Shell script
@@ -56,5 +56,5 @@ Skills
 * Languages
   * Native: German
   * Fluent: English
-  * Intermediate: French
+  * Intermediate: French -->
 
