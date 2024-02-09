@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nick Lauritz Keutel"
   avatar           : "profile.png"
-  bio              : "Computer enthusiast about to graduate from TU Berlin with a master's degree in Computer Science"
-  location         : "Berlin"
+  bio              :
+  location         :
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
